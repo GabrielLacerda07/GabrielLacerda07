@@ -5,7 +5,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriellacerda07&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellacerda07&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-  
+   ![Snake animation](https://github.com/GabrielLacerda07/GabrielLacerda07/blob/output/github-contribution-grid-snake.svg)
 ### Sobre mim ✌️
 - 👦 Jovem super interessado por desenvolvimento web.
 - 📚 Atualmente estudando tecnologias voltadas ao front-end como JavaScript.
@@ -31,7 +31,3 @@
   <a href="https://gabriel-lacerda.netlify.app/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a> 
   	
   </div>
-
-  
-  ![Snake animation](https://github.com/GabrielLacerda07/GabrielLacerda07/blob/output/github-contribution-grid-snake.svg)
- 
