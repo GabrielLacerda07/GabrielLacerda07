@@ -7,8 +7,8 @@
 </div>
    
 ### Sobre mim ✌️
-- 👦 Jovem super interessado por desenvolvimento web.
-- 📚 Atualmente estudando tecnologias voltadas ao front-end como JavaScript.
+- 👦 Desenvolvedor web
+- 📚 Desenvolvendo com tecnologias como Html, Css, Bootstrap e Javascript.
 - 📍 Brasileiro de Marechal Deodoro - AL.
 - 🎓 Estudante da graduação de sistemas de informação.
 ##
