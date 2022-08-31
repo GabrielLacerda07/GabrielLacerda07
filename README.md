@@ -8,9 +8,9 @@
    
 ### Sobre mim ✌️
 - 👦 Desenvolvedor web
-- 📚 Desenvolvendo com tecnologias como Html, Css, Bootstrap e Javascript.
+- 📚 Desenvolvendo com Javascript.
 - 📍 Brasileiro de Marechal Deodoro - AL.
-- 🎓 Estudante da graduação de sistemas de informação.
+- 🎓 Estudante do curso de sistemas de informação.
 ##
 ### Tecnologias 👨‍💻
 <div style="display: inline_block"><br>
