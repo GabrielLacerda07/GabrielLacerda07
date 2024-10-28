@@ -7,7 +7,7 @@
 </div>
    
 ### Sobre mim ✌️
-- 👦 Desenvolvedor web full-stack
+- 👦 Desenvolvedor web
 - 📚 Desenvolvendo com Laravel.
 - 📍 Brasileiro de Marechal Deodoro - AL.
 - 🎓 Estudante do curso de sistemas de informação.
